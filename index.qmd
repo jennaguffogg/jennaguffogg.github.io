@@ -1,0 +1,21 @@
+---
+title: "About"
+subtitle: |
+  Remote sensing, geospatial science, marine plastics, and python.
+image: img/portrait-pic-twente.jpg
+about:
+  id: edu-exp
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jennaguffogg/
+    - icon: github
+      text: Github
+      href: https://github.com/ylaya
+    - icon: github
+      text: OrcID
+      href: https://github.com/ylaya
+comments: false
+citation: false
+---

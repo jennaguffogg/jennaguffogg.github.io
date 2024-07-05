@@ -1,0 +1,11 @@
+---
+title: "blogs and projects"
+listing:
+    fields: [image, title, description, date, reading-time, categories]
+    contents: posts
+    sort: "date desc"
+    type: grid
+    categories: true
+---
+
+This will be the landing page for any projects, media releases or papers I want to highlight.
