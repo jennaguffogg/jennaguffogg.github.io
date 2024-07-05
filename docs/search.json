@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "ylaya.github.io",
+    "section": "",
+    "text": "import numpy as np\n\n\nprint(\"hello world\")\n\nhello world"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "This will be the landing page for my personal site."
+  },
+  {
+    "objectID": "posts/test.html",
+    "href": "posts/test.html",
+    "title": "ylaya.github.io",
+    "section": "",
+    "text": "import numpy as np\n\n\nprint(\"hello world\")\n\nhello world"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blogs and projects",
+    "section": "",
+    "text": "This will be the landing page for any projects, media releases or papers I want to highlight.\n\n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications and Media",
+    "section": "",
+    "text": "Quantifying Marine Plastic Debris in a Beach Environment Using Spectral Analysis. Jenna Guffogg, Samantha Blades, Mariela Soto-Berelov, Chris Bellmann, Andrew Skidmore and Simon Jones. Remote Sensing 2021 13(22) doi.org/10.3390/rs13224548\nTowards the Spectral Mapping of Plastic Debris on Beaches. Jenna Guffogg, Mariela Soto-Berelov, Simon Jones, Chris Bellmann, Jennifer Lavers and Andrew Skidmore. Remote Sensing 2021 13(9) doi.org/10.3390/rs13091850"
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications and Media",
+    "section": "",
+    "text": "Quantifying Marine Plastic Debris in a Beach Environment Using Spectral Analysis. Jenna Guffogg, Samantha Blades, Mariela Soto-Berelov, Chris Bellmann, Andrew Skidmore and Simon Jones. Remote Sensing 2021 13(22) doi.org/10.3390/rs13224548\nTowards the Spectral Mapping of Plastic Debris on Beaches. Jenna Guffogg, Mariela Soto-Berelov, Simon Jones, Chris Bellmann, Jennifer Lavers and Andrew Skidmore. Remote Sensing 2021 13(9) doi.org/10.3390/rs13091850"
+  },
+  {
+    "objectID": "publications.html#media",
+    "href": "publications.html#media",
+    "title": "Publications and Media",
+    "section": "Media",
+    "text": "Media\n\nscience daily\nrmit article\nint business\nazoclean"
+  },
+  {
+    "objectID": "publications.html#awards",
+    "href": "publications.html#awards",
+    "title": "Publications and Media",
+    "section": "Awards?",
+    "text": "Awards?"
+  }
+]
