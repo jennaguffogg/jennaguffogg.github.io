@@ -1,0 +1,23 @@
+---
+title: "Publications and Media"
+# description: "sorted from most recent"
+title-block-banner: false
+page-layout: article
+comments: false
+citation: false
+---
+## Publications
+
+**Quantifying Marine Plastic Debris in a Beach Environment Using Spectral Analysis**. Jenna Guffogg, Samantha Blades, Mariela Soto-Berelov, Chris Bellmann, Andrew Skidmore and Simon Jones. *Remote Sensing* **2021** *13(22)* [doi.org/10.3390/rs13224548](https://doi.org/10.3390/rs13224548)
+
+**Towards the Spectral Mapping of Plastic Debris on Beaches**. Jenna Guffogg, Mariela Soto-Berelov, Simon Jones, Chris Bellmann, Jennifer Lavers and Andrew Skidmore. *Remote Sensing* **2021** *13(9)* [doi.org/10.3390/rs13091850](https://doi.org/10.3390/rs13091850)
+
+## Media
+
+- science daily
+- rmit article
+- int business
+- azoclean
+
+## Awards?
+

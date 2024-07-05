@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  #title: ""
+  site-url: https://jennaguffogg.com
+  repo-url: https://github.com/ylaya/ylaya.github.io
+  page-navigation: true
+  navbar:
+    type: light
+    background: "#2D2D36"
+    search: false
+    pinned: false
+    right:
+      - text: "About"
+        file: index.qmd
+      - text: "Projects"
+        file: blog.qmd
+      - text: "Publications"
+        file: publications.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+
