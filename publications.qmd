@@ -1,23 +1,64 @@
 ---
-title: "Publications and Media"
+#title: ""
 # description: "sorted from most recent"
 title-block-banner: false
 page-layout: article
 comments: false
 citation: false
 ---
+
 ## Publications
+::: {.publications-box}
 
 **Quantifying Marine Plastic Debris in a Beach Environment Using Spectral Analysis**. Jenna Guffogg, Samantha Blades, Mariela Soto-Berelov, Chris Bellmann, Andrew Skidmore and Simon Jones. *Remote Sensing* **2021** *13(22)* [doi.org/10.3390/rs13224548](https://doi.org/10.3390/rs13224548)
 
 **Towards the Spectral Mapping of Plastic Debris on Beaches**. Jenna Guffogg, Mariela Soto-Berelov, Simon Jones, Chris Bellmann, Jennifer Lavers and Andrew Skidmore. *Remote Sensing* **2021** *13(9)* [doi.org/10.3390/rs13091850](https://doi.org/10.3390/rs13091850)
 
+:::
+
+## Conferences and public speaking
+::: {.publications-box}
+
+**National Science Week 2023**
+
+**7IMDC**
+
+**MIMA workshop**
+
+**EARSel Europe 2021**
+
+:::
+
+
 ## Media
+:::{.publications-box}
+::: {.grid}
+::: {.g-col-4}
+[**Science Daily**](https://www.sciencedaily.com/releases/2022/02/220202111841.htm)
+:::
 
-- science daily
-- rmit article
-- int business
-- azoclean
+::: {.g-col-4}
+[**Space Australia**](https://spaceaustralia.com/news/new-method-detecting-beach-litter-satellites)
+:::
 
-## Awards?
+::: {.g-col-4}
+[**International Business Times**](https://www.ibtimes.com/scientists-use-satellite-technology-spot-plastic-pollution-beaches-3389114)
+:::
+:::
 
+::: {.grid}
+::: {.g-col-4}
+
+[**Technology.org**](https://www.technology.org/2022/02/20/satellites-find-plastic-pollution/)
+:::
+
+::: {.g-col-4}
+[**Earth.com**](https://www.earth.com/news/remote-sensing-can-be-used-to-find-plastic-debris-on-the-beach/)
+:::
+
+::: {.g-col-4}
+[**Azo CleanTech**](https://www.azocleantech.com/article.aspx?ArticleID=1466)
+:::
+:::
+
+:::

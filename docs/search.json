@@ -9,21 +9,21 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Jenna Guffogg",
     "section": "",
-    "text": "About this site"
+    "text": "Joint Degree University of Twente Netherlands, RMIT Univer​sity AU\n\n\n\nRMIT University AU\n\n\n\nMonash University\n\n\n\n\n\n\nSensand | 2022 - present\n\n\n\nRMIT University 2019 - 2022\n\n\n\nRMIT University 2017 - 2022\n\n\n\nRMIT University 2016 - 2018\n\n\n\nParks Victoria 2016 - 2017"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "This will be the landing page for my personal site."
+    "text": "Hi, I’m Jenna!\nI’m a geospatial scientist who uses using remote sensing technologies to tackle environmental challenges. I’ve researched detecting marine plastic pollution in the Indian Ocean from space, and tracking logging events across decades in state forests."
   },
   {
     "objectID": "posts/test.html",
     "href": "posts/test.html",
-    "title": "ylaya.github.io",
+    "title": "",
     "section": "",
     "text": "import numpy as np\n\n\nprint(\"hello world\")\n\nhello world"
   },
@@ -37,29 +37,85 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications and Media",
+    "title": "",
     "section": "",
     "text": "Quantifying Marine Plastic Debris in a Beach Environment Using Spectral Analysis. Jenna Guffogg, Samantha Blades, Mariela Soto-Berelov, Chris Bellmann, Andrew Skidmore and Simon Jones. Remote Sensing 2021 13(22) doi.org/10.3390/rs13224548\nTowards the Spectral Mapping of Plastic Debris on Beaches. Jenna Guffogg, Mariela Soto-Berelov, Simon Jones, Chris Bellmann, Jennifer Lavers and Andrew Skidmore. Remote Sensing 2021 13(9) doi.org/10.3390/rs13091850"
   },
   {
     "objectID": "publications.html#publications",
     "href": "publications.html#publications",
-    "title": "Publications and Media",
+    "title": "",
     "section": "",
     "text": "Quantifying Marine Plastic Debris in a Beach Environment Using Spectral Analysis. Jenna Guffogg, Samantha Blades, Mariela Soto-Berelov, Chris Bellmann, Andrew Skidmore and Simon Jones. Remote Sensing 2021 13(22) doi.org/10.3390/rs13224548\nTowards the Spectral Mapping of Plastic Debris on Beaches. Jenna Guffogg, Mariela Soto-Berelov, Simon Jones, Chris Bellmann, Jennifer Lavers and Andrew Skidmore. Remote Sensing 2021 13(9) doi.org/10.3390/rs13091850"
   },
   {
     "objectID": "publications.html#media",
     "href": "publications.html#media",
-    "title": "Publications and Media",
+    "title": "",
     "section": "Media",
-    "text": "Media\n\nscience daily\nrmit article\nint business\nazoclean"
+    "text": "Media\n\n\n\nScience Daily\n\n\nSpace Australia\n\n\nInternational Business Times\n\n\n\n\nTechnology.org\n\n\nEarth.com\n\n\nAzo CleanTech"
   },
   {
     "objectID": "publications.html#awards",
     "href": "publications.html#awards",
     "title": "Publications and Media",
     "section": "Awards?",
-    "text": "Awards?"
+    "text": "Awards?\n\n\nScience Daily\n\n\nThis column takes 2/3 of the page\n\n\nThis column takes 2/3 of the page"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Jenna Guffogg",
+    "section": "",
+    "text": "Joint Degree University of Twente Netherlands, RMIT Univer​sity AU\n\n\n\nRMIT University AU\n\n\n\nMonash University"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Jenna Guffogg",
+    "section": "",
+    "text": "Sensand | 2022 - present\n\n\n\nRMIT University 2019 - 2022\n\n\n\nRMIT University 2017 - 2022\n\n\n\nRMIT University 2016 - 2018\n\n\n\nParks Victoria 2016 - 2017"
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "",
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\n7IMDC\nMIMA workshop\nEARSel Europe 2021"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards and achievements",
+    "section": "",
+    "text": "Front cover article for Remote Sensing November 2021 issue\nRemote Sensing | 2021\n\n\nMDPI Remote Sensing Cover image finalist\nRemote Sensing | 2021\n\n\nVice Chancellor’s List award for academic excellence\nRMIT University | 2018\n\n\nRMIT commendation for academic excellence\nRMIT University | 2016 | 2017 | 2018\n\n\nRMIT sustainability ambassador\nRMIT University | 2017"
+  },
+  {
+    "objectID": "awards.html#education",
+    "href": "awards.html#education",
+    "title": "Awards and achievements",
+    "section": "",
+    "text": "Joint Degree University of Twente Netherlands, RMIT Univer​sity AU\n\n\n\nRMIT University AU\n\n\n\nMonash University"
+  },
+  {
+    "objectID": "awards.html#experience",
+    "href": "awards.html#experience",
+    "title": "Awards and achievements",
+    "section": "",
+    "text": "Sensand | 2022 - present\n\n\n\nRMIT University 2019 - 2022\n\n\n\nRMIT University 2017 - 2022\n\n\n\nRMIT University 2016 - 2018\n\n\n\nParks Victoria 2016 - 2017"
+  },
+  {
+    "objectID": "publications.html#public-speaking",
+    "href": "publications.html#public-speaking",
+    "title": "",
+    "section": "Public speaking",
+    "text": "Public speaking\n\nNational Science Week 2023\nSci-com presentation"
+  },
+  {
+    "objectID": "publications.html#conferences",
+    "href": "publications.html#conferences",
+    "title": "",
+    "section": "Conferences",
+    "text": "Conferences\n\n7IMDC\nMIMA workshop\nEARSel Europe 2021"
   }
 ]

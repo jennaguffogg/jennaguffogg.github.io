@@ -18,3 +18,8 @@ about:
 comments: false
 citation: false
 ---
+
+Hi, I'm Jenna!
+
+I'm a geospatial scientist who uses using remote sensing technologies to tackle environmental challenges. I've researched detecting marine plastic pollution in the Indian Ocean from space, and tracking logging events across decades in state forests. 
+

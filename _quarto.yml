@@ -9,24 +9,28 @@ website:
   page-navigation: true
   navbar:
     type: light
-    background: "#2D2D36"
+    background: "#2c3e50"
     search: false
     pinned: false
     right:
-      - text: "About"
+      - text: "Home"
         file: index.qmd
+      - text: "About"
+        file: about.qmd
       - text: "Projects"
         file: blog.qmd
-      - text: "Publications"
+      - text: "Publications & Media"
         file: publications.qmd
+      - text: Awards
+        file: awards.qmd
 
 format:
   html:
+    smooth-scroll: true
     theme:
-      light: cosmo
-      dark: darkly
+      light: flatly
     css: styles.css
-    toc: true
+    toc: false
 
 
 
