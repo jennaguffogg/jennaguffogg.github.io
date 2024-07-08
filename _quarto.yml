@@ -17,8 +17,8 @@ website:
         file: index.qmd
       - text: "About"
         file: about.qmd
-      - text: "Projects"
-        file: blog.qmd
+      # - text: "Projects"
+      #   file: blog.qmd
       - text: "Publications & Media"
         file: publications.qmd
       - text: Awards

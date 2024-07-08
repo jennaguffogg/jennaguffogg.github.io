@@ -19,13 +19,13 @@ citation: false
 ## Conferences and public speaking
 ::: {.publications-box}
 
-**National Science Week 2023**
+[**Soapbox Science, National Science Week 2023**](https://www.youtube.com/watch?v=Td0HOQgQ4O4&ab_channel=STEMSisters)
 
-**7IMDC**
+[**7th International Marine Debris Conference, Busan South Korea**](https://internationalmarinedebrisconference.org/index.php/7imdc-home-page/)
 
-**MIMA workshop**
+[**Malaysia – Australia Dialogue Series on Combating Marine Plastic Pollution 2022**](https://www.mima.gov.my/event/malaysia-australia-dialogue-series-on-combating-marine-plastic-pollution-2-2022)
 
-**EARSel Europe 2021**
+[**40th EARSel Symposium 2021, Warsaw**](https://symposium.earsel.org/40th-symposium-Warszaw/home/)
 
 :::
 

@@ -4,7 +4,7 @@ subtitle: |
   Remote sensing, geospatial science, marine plastics, and python.
 image: img/portrait-pic-twente.jpg
 about:
-  id: edu-exp
+  id: socials
   template: jolla
   links:
     - icon: linkedin
@@ -18,8 +18,11 @@ about:
 comments: false
 citation: false
 ---
+::: {#socials}
+:::
 
-Hi, I'm Jenna!
+Hi there 👋 I'm **Jenna**!
 
-I'm a geospatial scientist who uses using remote sensing technologies to tackle environmental challenges. I've researched detecting marine plastic pollution in the Indian Ocean from space, and tracking logging events across decades in state forests. 
+I'm a remote sensing data scientist who uses satellites, geospatial data and cloud computing to tackle large-scale environmental challenges. In the past I have worked on projects that tracked logging events across state forests over 30+ years and more recently, my PhD research involved looking for marine plastic pollution on remote beaches. You can read more about my work on finding plastic pollution with satellites [**here**](https://www.rmit.edu.au/news/media-releases-and-expert-comments/2022/feb/beach-plastics).
 
+I'm an advocate for science communication, and have given public talks at [**government workshops**](https://www.mima.gov.my/event/malaysia-australia-dialogue-series-on-combating-marine-plastic-pollution-2-2022) and as part of [**National Science Week**](https://www.youtube.com/watch?v=Td0HOQgQ4O4&ab_channel=STEMSisters).

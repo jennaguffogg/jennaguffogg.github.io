@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "ylaya.github.io",
-    "section": "",
-    "text": "import numpy as np\n\n\nprint(\"hello world\")\n\nhello world"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Jenna Guffogg",
-    "section": "",
-    "text": "Joint Degree University of Twente Netherlands, RMIT Univer​sity AU\n\n\n\nRMIT University AU\n\n\n\nMonash University\n\n\n\n\n\n\nSensand | 2022 - present\n\n\n\nRMIT University 2019 - 2022\n\n\n\nRMIT University 2017 - 2022\n\n\n\nRMIT University 2016 - 2018\n\n\n\nParks Victoria 2016 - 2017"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "Hi, I’m Jenna!\nI’m a geospatial scientist who uses using remote sensing technologies to tackle environmental challenges. I’ve researched detecting marine plastic pollution in the Indian Ocean from space, and tracking logging events across decades in state forests."
-  },
-  {
-    "objectID": "posts/test.html",
-    "href": "posts/test.html",
-    "title": "",
-    "section": "",
-    "text": "import numpy as np\n\n\nprint(\"hello world\")\n\nhello world"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "blogs and projects",
-    "section": "",
-    "text": "This will be the landing page for any projects, media releases or papers I want to highlight.\n\n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "",
@@ -49,6 +14,13 @@
     "text": "Quantifying Marine Plastic Debris in a Beach Environment Using Spectral Analysis. Jenna Guffogg, Samantha Blades, Mariela Soto-Berelov, Chris Bellmann, Andrew Skidmore and Simon Jones. Remote Sensing 2021 13(22) doi.org/10.3390/rs13224548\nTowards the Spectral Mapping of Plastic Debris on Beaches. Jenna Guffogg, Mariela Soto-Berelov, Simon Jones, Chris Bellmann, Jennifer Lavers and Andrew Skidmore. Remote Sensing 2021 13(9) doi.org/10.3390/rs13091850"
   },
   {
+    "objectID": "publications.html#conferences-and-public-speaking",
+    "href": "publications.html#conferences-and-public-speaking",
+    "title": "",
+    "section": "Conferences and public speaking",
+    "text": "Conferences and public speaking\n\nSoapbox Science, National Science Week 2023\n7th International Marine Debris Conference, Busan South Korea\nMalaysia – Australia Dialogue Series on Combating Marine Plastic Pollution 2022\n40th EARSel Symposium 2021, Warsaw"
+  },
+  {
     "objectID": "publications.html#media",
     "href": "publications.html#media",
     "title": "",
@@ -56,32 +28,25 @@
     "text": "Media\n\n\n\nScience Daily\n\n\nSpace Australia\n\n\nInternational Business Times\n\n\n\n\nTechnology.org\n\n\nEarth.com\n\n\nAzo CleanTech"
   },
   {
-    "objectID": "publications.html#awards",
-    "href": "publications.html#awards",
-    "title": "Publications and Media",
-    "section": "Awards?",
-    "text": "Awards?\n\n\nScience Daily\n\n\nThis column takes 2/3 of the page\n\n\nThis column takes 2/3 of the page"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Jenna Guffogg",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
     "section": "",
-    "text": "Joint Degree University of Twente Netherlands, RMIT Univer​sity AU\n\n\n\nRMIT University AU\n\n\n\nMonash University"
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n      OrcID\n  \n\n\n\nHi there 👋 I’m Jenna!\nI’m a remote sensing data scientist who uses satellites, geospatial data and cloud computing to tackle large-scale environmental challenges. In the past I have worked on projects that tracked logging events across state forests over 30+ years and more recently, my PhD research involved looking for marine plastic pollution on remote beaches. You can read more about my work on finding plastic pollution with satellites here.\nI’m an advocate for science communication, and have given public talks at government workshops and as part of National Science Week."
   },
   {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Jenna Guffogg",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blogs and projects",
     "section": "",
-    "text": "Sensand | 2022 - present\n\n\n\nRMIT University 2019 - 2022\n\n\n\nRMIT University 2017 - 2022\n\n\n\nRMIT University 2016 - 2018\n\n\n\nParks Victoria 2016 - 2017"
+    "text": "This will be the landing page for any projects, media releases or papers I want to highlight.\n\n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications.html#conference-presentations",
-    "href": "publications.html#conference-presentations",
+    "objectID": "posts/test.html",
+    "href": "posts/test.html",
     "title": "",
-    "section": "Conference presentations",
-    "text": "Conference presentations\n\n7IMDC\nMIMA workshop\nEARSel Europe 2021"
+    "section": "",
+    "text": "import numpy as np\n\n\nprint(\"hello world\")\n\nhello world"
   },
   {
     "objectID": "awards.html",
@@ -91,31 +56,38 @@
     "text": "Front cover article for Remote Sensing November 2021 issue\nRemote Sensing | 2021\n\n\nMDPI Remote Sensing Cover image finalist\nRemote Sensing | 2021\n\n\nVice Chancellor’s List award for academic excellence\nRMIT University | 2018\n\n\nRMIT commendation for academic excellence\nRMIT University | 2016 | 2017 | 2018\n\n\nRMIT sustainability ambassador\nRMIT University | 2017"
   },
   {
-    "objectID": "awards.html#education",
-    "href": "awards.html#education",
-    "title": "Awards and achievements",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Jenna Guffogg",
     "section": "",
-    "text": "Joint Degree University of Twente Netherlands, RMIT Univer​sity AU\n\n\n\nRMIT University AU\n\n\n\nMonash University"
+    "text": "Joint Degree University of Twente Netherlands, RMIT Univer​sity Australia\n\n\n\nRMIT University Australia\n\n\n\nMonash University\n\n\n\n\n\n\nSensand | 2022 - present\n\n\n\nRMIT University 2017 - 2022\n\n\n\nRMIT University 2019 - 2022\n\n\n\nRMIT University 2016 - 2018\n\n\n\nParks Victoria 2016 - 2017"
   },
   {
-    "objectID": "awards.html#experience",
-    "href": "awards.html#experience",
-    "title": "Awards and achievements",
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Jenna Guffogg",
     "section": "",
-    "text": "Sensand | 2022 - present\n\n\n\nRMIT University 2019 - 2022\n\n\n\nRMIT University 2017 - 2022\n\n\n\nRMIT University 2016 - 2018\n\n\n\nParks Victoria 2016 - 2017"
+    "text": "Joint Degree University of Twente Netherlands, RMIT Univer​sity Australia\n\n\n\nRMIT University Australia\n\n\n\nMonash University"
   },
   {
-    "objectID": "publications.html#public-speaking",
-    "href": "publications.html#public-speaking",
-    "title": "",
-    "section": "Public speaking",
-    "text": "Public speaking\n\nNational Science Week 2023\nSci-com presentation"
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Jenna Guffogg",
+    "section": "",
+    "text": "Sensand | 2022 - present\n\n\n\nRMIT University 2017 - 2022\n\n\n\nRMIT University 2019 - 2022\n\n\n\nRMIT University 2016 - 2018\n\n\n\nParks Victoria 2016 - 2017"
   },
   {
-    "objectID": "publications.html#conferences",
-    "href": "publications.html#conferences",
-    "title": "",
-    "section": "Conferences",
-    "text": "Conferences\n\n7IMDC\nMIMA workshop\nEARSel Europe 2021"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nB.Eng. in Geological Engineering (Specialised in Energy, and Reservoir Analysis), 2012\nUniversity Gadjah Mada, Indonesia"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "About",
+    "section": "Interests",
+    "text": "Interests\n\nCooking\nRudimental Drums\nData Visualisation\nHiking\nFishing"
   }
 ]

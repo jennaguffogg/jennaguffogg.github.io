@@ -22,10 +22,11 @@ citation: false
 
 ## Education
 #### PhD Geospatial Science
-Joint Degree University of Twente Netherlands, RMIT Univer​sity AU
+Joint Degree University of Twente Netherlands, 
+RMIT Univer​sity Australia
 
 #### Masters of Applied Science (Geospatial Science)
-RMIT University AU
+RMIT University Australia
 
 #### Bachelor of Science, Honours
 Monash University
@@ -34,17 +35,16 @@ Monash University
 #### Remote Sensing Scientist
 Sensand | 2022 - present
 
-#### Student supervisor
-RMIT University 2019 - 2022
-
 #### Academic instructor
 RMIT University 2017 - 2022
+
+#### Student supervisor
+RMIT University 2019 - 2022
 
 #### Research assistant
 RMIT University 2016 - 2018
 
-#### Remote tensing technical consultant
+#### Remote sensing technical consultant
 Parks Victoria 2016 - 2017
-
 
 :::
